@@ -96,3 +96,9 @@ public/
 .dynamodb/
 
 # End of https://www.gitignore.io/api/node
+
+locales/*
+!locales/.keep
+
+web_modules/*
+!web_modules/.keep
