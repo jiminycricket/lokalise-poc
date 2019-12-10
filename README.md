@@ -12,6 +12,20 @@ $ npm install
 $ npm run dev
 ```
 
+## build locales
+
+1. install [lokalise2](https://github.com/lokalise/lokalise-cli-2-go)  first 
+```sh
+brew tap lokalise/cli-2
+brew install lokalise2
+```
+
+2. 
+```sh
+npm run locales
+```
+
+
 ## License
 
 MIT
